@@ -1,6 +1,4 @@
 miss you
-<<<<<<< Updated upstream
 forever
-=======
 heart
->>>>>>> Stashed changes
+
